@@ -1,16 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
-  <Jars></Jars>
+  <Jars>
+    <Jar>obj\Debug\lp\3\jl\support-annotations.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\10\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\11\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\12\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\2\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\3\jl\support-annotations.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\4\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\5\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\6\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\7\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\8\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\9\jl\classes.jar</Jar>
+  </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\9\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\10\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\reale\documents\visual studio 2017\Projects\XamarinRSSFeed\XamarinRSSFeed\obj\Debug\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\9.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

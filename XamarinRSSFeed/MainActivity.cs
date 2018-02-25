@@ -13,7 +13,7 @@ using Android.Views;
 
 namespace XamarinRSSFeed
 {
-    [Activity(Label = "XamarinRSSFeed", MainLauncher = true, Icon = "@drawable/icon",Theme ="@style/Theme.AppCompat.Light.NoActionBar")]
+    [Activity(Label = "Emptifull", MainLauncher = true, Icon = "@drawable/icon",Theme ="@style/Theme.AppCompat.Light.NoActionBar")]
     public class MainActivity : AppCompatActivity
     {
         Android.Support.V7.Widget.Toolbar toolbar;
@@ -21,7 +21,8 @@ namespace XamarinRSSFeed
         RssObject rssObject;
 
         private const string RSS_link = "http://rss.nytimes.com/services/xml/rss/nyt/Science.xml";
-        private const string RSS_to_json = "https://api.rss2json.com/v1/api.json?rss_url=";
+        private const string RSS_to_json1 = "https://api.rss2json.com/v1/api.json?rss_url=";
+        private const string RSS_to_json2 = "&api_key=prshmr0k08zxrsxtsb7cx9fsu4kiggfftiasqhzn&order_by=pubDate&order_dir=desc&count=50";
 
 
 
@@ -44,7 +45,7 @@ namespace XamarinRSSFeed
             SetContentView (Resource.Layout.Main);
 
             toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
-            toolbar.Title = "News";
+            toolbar.Title = "Emptifull News: Alpha";
             SetSupportActionBar(toolbar);
 
             recyclerView = FindViewById<RecyclerView>(Resource.Id.recyclerView);
@@ -59,8 +60,9 @@ namespace XamarinRSSFeed
 
         private void LoadData()
         {
-            StringBuilder strBuilder = new StringBuilder(RSS_to_json);
+            StringBuilder strBuilder = new StringBuilder(RSS_to_json1);
             strBuilder.Append(RSS_link);
+            strBuilder.Append(RSS_to_json2);
 
             new LoadDataAsync(this).Execute(strBuilder.ToString());
         }

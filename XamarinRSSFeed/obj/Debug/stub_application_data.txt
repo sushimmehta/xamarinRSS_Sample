@@ -1,2 +1,2 @@
 android.app.Application
-XamarinRSSFeed.XamarinRSSFeed
+Emptifull.News.Emptifull

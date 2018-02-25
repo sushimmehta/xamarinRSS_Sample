@@ -38,6 +38,13 @@ public class MonoPackageManager {
 				String cacheDir     = context.getCacheDir ().getAbsolutePath ();
 				String dataDir      = getNativeLibraryPath (context);
 				ClassLoader loader  = context.getClassLoader ();
+				java.io.File external0 = android.os.Environment.getExternalStorageDirectory ();
+				String externalDir = new java.io.File (
+							external0,
+							"Android/data/" + context.getPackageName () + "/files/.__override__").getAbsolutePath ();
+				String externalLegacyDir = new java.io.File (
+							external0,
+							"../legacy/Android/data/" + context.getPackageName () + "/files/.__override__").getAbsolutePath ();
 
 				Runtime.init (
 						language,
@@ -49,9 +56,10 @@ public class MonoPackageManager {
 							dataDir,
 						},
 						loader,
-						new java.io.File (
-							android.os.Environment.getExternalStorageDirectory (),
-							"Android/data/" + context.getPackageName () + "/files/.__override__").getAbsolutePath (),
+						new String[] {
+							externalDir,
+							externalLegacyDir
+						},
 						MonoPackageManager_Resources.Assemblies,
 						context.getPackageName ());
 				
@@ -97,8 +105,8 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "XamarinRSSFeed.dll" comes first in this list. */
-		"XamarinRSSFeed.dll",
+		/* We need to ensure that "Emptifull.dll" comes first in this list. */
+		"Emptifull.dll",
 		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
