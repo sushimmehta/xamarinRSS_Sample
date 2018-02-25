@@ -38,8 +38,10 @@ D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj
 D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\res\menu\main_menu.xml
 D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\R.cs.flag
 D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\uploadflags.txt
+D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\XamarinRSSFeed.csprojResolveAssemblyReference.cache
 D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\bin\Release\Emptifull.dll.mdb
 D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\android\assets\Emptifull.dll.mdb
+D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\bin\Release\Emptifull.dll
 bin\Release\Microsoft.CSharp.pdb
 bin\Release\Mono.Android.pdb
 bin\Release\mscorlib.pdb
