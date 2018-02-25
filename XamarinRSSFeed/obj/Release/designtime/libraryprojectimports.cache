@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\10\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\11\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\12\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\2\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\3\jl\support-annotations.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\4\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\5\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\6\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\7\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\8\jl\classes.jar</Jar>
+    <Jar>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\9\jl\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\9\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\10\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\11\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories />
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\9.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\sushim\venture\news\code\RSS_feed_sample\xamarinRSS_Sample\XamarinRSSFeed\obj\Release\lp\11.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
